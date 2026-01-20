@@ -1,4 +1,4 @@
-package src2.edu.miguel.gonzalez.actividad1.data;
+package proyectos.edu.miguel.gonzalez.actividad1.data;
 
 
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package src2.edu.miguel.gonzalez.actividad0.ui;
+package proyectos.edu.miguel.gonzalez.actividad0.ui;
 
 import edu.miguel.gonzalez.actividad0.Proceso.Switch;
 
