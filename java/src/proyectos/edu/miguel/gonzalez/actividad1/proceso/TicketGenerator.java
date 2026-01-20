@@ -1,4 +1,4 @@
-package src2.edu.miguel.gonzalez.actividad1.proceso;
+package proyectos.edu.miguel.gonzalez.actividad1.proceso;
 
 import edu.miguel.gonzalez.actividad1.data.Ticket;
 import edu.miguel.gonzalez.actividad1.data.Vehiculo;

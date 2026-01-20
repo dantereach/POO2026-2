@@ -1,4 +1,4 @@
-package src2.edu.miguel.gonzalez.actividad1;
+package proyectos.edu.miguel.gonzalez.actividad1;
 
 import edu.miguel.gonzalez.actividad1.ui.ConsoleUI;
 

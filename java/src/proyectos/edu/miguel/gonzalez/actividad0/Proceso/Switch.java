@@ -1,4 +1,4 @@
-package src2.edu.miguel.gonzalez.actividad0.Proceso;
+package proyectos.edu.miguel.gonzalez.actividad0.Proceso;
 
 public class Switch {
 
